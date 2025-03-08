@@ -1,0 +1,19 @@
+.starbox {
+  display: flex;
+  gap: 10px;
+}
+
+.starContainerDiv {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.StarStyle {
+  width: 48px;
+  height: 48px;
+  display: block;
+  cursor: pointer;
+}
